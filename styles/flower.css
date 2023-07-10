@@ -14,7 +14,7 @@ body{
     margin-top: 50px;
     margin-right: 50px;
     width: 400px; 
-height: 480px;
+height: 475px;
 }
 .banner-para{
     color: rgba(39, 39, 39, 0.60);
@@ -62,7 +62,7 @@ width: 70%; margin: auto;
 }
 .featured-img{
     /* background-color: khaki; */
-    height: 250px;
+    height: 260px;
     width: 200px;
     margin-top: 20px;
     /* border-radius: 200px 250px 0px 0px; */
@@ -72,20 +72,20 @@ width: 70%; margin: auto;
     /* height: 30%;
     width: 25%; */
     background-color: rgba(167, 33, 98, 0.15);
-    padding: 30px;
+   padding: 40px 40px 0px 40px;
     border-radius: 200px 200px 0px 0px;
     
 
 
 }
 .img-two{
-    padding: 30px;
+    padding: 40px 40px 0px 40px;
     border-radius: 200px 200px 0px 0px;
     background-color: rgba(5, 151, 160, 0.15);
 }
-.img-three{
+.img-three{ 
     
-    padding: 30px;
+    padding: 40px 40px 0px 40px;
     border-radius: 200px 200px 0px 0px;
     background-color: rgba(71, 125, 17, 0.15);
 
@@ -103,13 +103,12 @@ section{height: 90vh;}
 }
 .hot-deal-container{ margin-top: 8%;margin-bottom: 5%;
      height: 50vh; background-color:  rgba(229, 84, 115, 0.05);
-     display: flex; align-items: center; justify-content:center; gap: 120px;
-}
+        display: flex; align-items: center; justify-content:center; gap: 120px; }
 .deal-pic{
     height: 250px;
 }
 .deal-desc{text-align: center;}
-.insta-section { height: 70vh;
+.insta-section { height: 60vh;
     text-align: center;
 }
 .insta-img{
@@ -118,4 +117,20 @@ section{height: 90vh;}
 }
 .insta-flower-pic{
     height:220px ; 
+}
+.get-deals-container{  height: 70vh; background-image: url('../Flower Asset/Rectangle\ 9.png');
+   background-position: center; background-size:850px;background-repeat: no-repeat;
+   text-align: center; display: flex; align-items: center; justify-content: center;  }
+   .g-head{ font-size: 25px; columns: #474747; margin-bottom: 0px;
+}
+.inp{
+    width: 400px; padding: 9px; border: 0px;
+    border-radius: 3px; margin-right: 3px; font-size: 10px;
+}
+.get-deals-para{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 10px;
 }
