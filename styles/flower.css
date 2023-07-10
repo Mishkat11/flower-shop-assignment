@@ -1,0 +1,39 @@
+*{margin: 0px; padding: 0%;}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* banner section  */
+.first-container{display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 90vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    /* width: 80%;margin: auto; */
+}
+.banner-pic{
+    margin-top: 50px;
+    margin-right: 50px;
+    width: 400px;
+height: 500px;
+}
+.banner-para{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 10px;
+font-weight: 400;
+margin-bottom: 30px;
+}
+.banner-desc-sec{
+    margin-left: 50px;
+}
+.banner-head{
+    color: #272727;
+font-size: 45px;
+font-weight: 800;
+margin-bottom: 30px;
+}
+.btn-primary{color: white;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+background: #E55473;
+}
