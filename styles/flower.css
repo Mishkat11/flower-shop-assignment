@@ -13,8 +13,8 @@ body{
 .banner-pic{
     margin-top: 50px;
     margin-right: 50px;
-    width: 400px;
-height: 500px;
+    width: 400px; 
+height: 480px;
 }
 .banner-para{
     color: rgba(39, 39, 39, 0.60);
@@ -98,3 +98,14 @@ width: 70%; margin: auto;
     border-bottom: 2px solid black; margin-top: 20px;
 }
 section{height: 90vh;}
+.head{
+    color: #272727;
+}
+.hot-deal-container{
+     height: 50vh; background-color:  rgba(229, 84, 115, 0.05);
+     display: flex; align-items: center; justify-content:center; gap: 120px;
+}
+.deal-pic{
+    height: 250px;
+}
+.deal-desc{text-align: center;}
