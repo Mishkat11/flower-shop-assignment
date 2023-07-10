@@ -58,7 +58,7 @@ width: 70%; margin: auto;
     /* margin-left: 50px; */
 }
 .featured-flower-container{
-    /* height: 100vh; */
+    height: 75vh;
 }
 .featured-img{
     /* background-color: khaki; */
@@ -101,7 +101,7 @@ section{height: 90vh;}
 .head{
     color: #272727;
 }
-.hot-deal-container{
+.hot-deal-container{ margin-top: 8%;margin-bottom: 5%;
      height: 50vh; background-color:  rgba(229, 84, 115, 0.05);
      display: flex; align-items: center; justify-content:center; gap: 120px;
 }
@@ -109,3 +109,13 @@ section{height: 90vh;}
     height: 250px;
 }
 .deal-desc{text-align: center;}
+.insta-section { height: 70vh;
+    text-align: center;
+}
+.insta-img{
+    width: 70%; margin: auto;
+    display: flex; align-items: center; gap: 24px;
+}
+.insta-flower-pic{
+    height:220px ; 
+}
